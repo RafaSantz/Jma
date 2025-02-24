@@ -110,17 +110,15 @@ html, body {
     }
 
     .menu ul {
-        flex-direction: column;
-        gap: 8px;
+        gap: 5px; /* Reduz o espaçamento entre os itens */
     }
 
     .menu ul li a {
-        font-size: 14px;
-        padding: 6px 10px;
+        font-size: 12px; /* Reduz o tamanho da fonte */
+        padding: 6px 10px; /* Reduz o padding */
     }
+
 }
-
-
 /* Menu de Navegação */
 .menu {
     background-color: #273276;
