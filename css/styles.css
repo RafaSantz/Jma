@@ -114,7 +114,7 @@ html, body {
     }
 
     .menu ul li a {
-        font-size: 10px; /* Reduz o tamanho da fonte */
+        font-size: 6px; /* Reduz o tamanho da fonte */
         padding: 6px 10px; /* Reduz o padding */
     }
 
